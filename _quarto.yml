@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: second_page.qmd
+      - href: secondpage.qmd
         text: Second Page
 
 format:
