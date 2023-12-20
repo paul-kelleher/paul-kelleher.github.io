@@ -7,8 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: secondpage.qmd
-        text: Second Page
+      - href: testpage.qmd
+        text: Test Page
 
 format:
   html:

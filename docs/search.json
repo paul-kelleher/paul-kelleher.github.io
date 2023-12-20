@@ -23,8 +23,15 @@
   {
     "objectID": "secondpage.html",
     "href": "secondpage.html",
-    "title": "Second Page",
+    "title": "Test Page",
     "section": "",
     "text": "This is a second page."
+  },
+  {
+    "objectID": "testpage.html",
+    "href": "testpage.html",
+    "title": "Test Page",
+    "section": "",
+    "text": "This is a test page."
   }
 ]
