@@ -2,12 +2,12 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "paul-kelleher.github.io"
+  title: "J. Paul Kelleher"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - second_page.qmd
 
 format:
   html:
