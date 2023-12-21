@@ -7,8 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - url: https://www.paulkelleher.net/blog/
-        text: Blog
+      - href: testpage.qmd
+        text: Test page
 
 format:
   html:
