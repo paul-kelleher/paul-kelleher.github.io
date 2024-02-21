@@ -33,5 +33,26 @@
     "title": "Test Page",
     "section": "",
     "text": "This is a test page."
+  },
+  {
+    "objectID": "third-test-post/index.html",
+    "href": "third-test-post/index.html",
+    "title": "Third Test Post",
+    "section": "",
+    "text": "Test content."
+  },
+  {
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Test Page",
+    "section": "",
+    "text": "This is a test page."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "This is a test CV page."
   }
 ]
