@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - url: https://www.paulkelleher.net/CV
+        text: CV
       - url: https://www.paulkelleher.net/blog
         text: Blog
 
