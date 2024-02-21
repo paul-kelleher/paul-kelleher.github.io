@@ -61,5 +61,12 @@
     "title": "Test Course",
     "section": "",
     "text": "Test page content."
+  },
+  {
+    "objectID": "test-course/test-course-subpage/index.html",
+    "href": "test-course/test-course-subpage/index.html",
+    "title": "Test Course Subpage",
+    "section": "",
+    "text": "Test subpage content."
   }
 ]

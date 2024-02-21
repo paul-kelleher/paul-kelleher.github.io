@@ -1,0 +1,10 @@
+---
+title: "Test Course Subpage"
+description: "Test Course Subpage Description"
+date: 2024-02-21
+title-block-banner: true
+engine: knitr
+freeze: false
+---
+
+Test subpage content.
