@@ -54,5 +54,12 @@
     "title": "CV",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "test-course/index.html",
+    "href": "test-course/index.html",
+    "title": "Test Course",
+    "section": "",
+    "text": "Test page content."
   }
 ]
