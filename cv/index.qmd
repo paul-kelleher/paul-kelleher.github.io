@@ -6,7 +6,7 @@ published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "Kelleher_CV_Feb_2024_3.pdf"
+  pdf: "Kelleher_CV_April 2024.pdf"
 ---
 
 ```{css, echo=FALSE}
