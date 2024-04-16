@@ -2,6 +2,8 @@
 title: "J. Paul Kelleher"
 ---
 
+![](PK_monarch.png){ width=41% } 
+
 I am an Associate Professor of Bioethics and Philosophy at the University of Wisconsin--Madison.
 
 My teaching and research explore ethical and philosophical dimensions of public policy, especially climate policy and health policy.
