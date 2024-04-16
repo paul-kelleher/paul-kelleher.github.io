@@ -9,5 +9,3 @@ I am an Associate Professor of Bioethics and Philosophy at the University of Wis
 My teaching and research explore ethical and philosophical dimensions of public policy, especially climate policy and health policy.
 
 My book *The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics* is forthcoming in Oxford University Press's [PPE Book Series](https://ppebookseries.org/).
-
-*I am currently in the process of migrating this site from Wordpress to a Quarto website hosted by Github. More to come.*
