@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "J. Paul Kelleher",
-    "section": "",
-    "text": "I am an Associate Professor of Bioethics and Philosophy at the University of Wisconsin–Madison.\nMy teaching and research explore ethical and other philosophical dimensions of public policy, especially climate policy and health policy.\nMy book The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics is forthcoming in Oxford University Press’s PPE Book Series."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "New about page."
-  },
-  {
-    "objectID": "second_page.html",
-    "href": "second_page.html",
-    "title": "Second Page",
-    "section": "",
-    "text": "This is a second page."
-  },
-  {
-    "objectID": "secondpage.html",
-    "href": "secondpage.html",
-    "title": "Test Page",
-    "section": "",
-    "text": "This is a second page."
-  },
-  {
-    "objectID": "testpage.html",
-    "href": "testpage.html",
-    "title": "Test Page",
-    "section": "",
-    "text": "This is a test page."
-  },
-  {
-    "objectID": "third-test-post/index.html",
-    "href": "third-test-post/index.html",
-    "title": "Third Test Post",
-    "section": "",
-    "text": "Test content."
-  },
-  {
-    "objectID": "cv/cv.html",
-    "href": "cv/cv.html",
-    "title": "Test Page",
-    "section": "",
-    "text": "This is a test page."
-  },
-  {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
     "title": "CV",
@@ -56,17 +7,10 @@
     "text": "Download CV"
   },
   {
-    "objectID": "test-course/index.html",
-    "href": "test-course/index.html",
-    "title": "Test Course",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "J. Paul Kelleher",
     "section": "",
-    "text": "Test page content."
-  },
-  {
-    "objectID": "test-course/test-course-subpage/index.html",
-    "href": "test-course/test-course-subpage/index.html",
-    "title": "Test Course Subpage",
-    "section": "",
-    "text": "Test subpage content."
+    "text": "I am an Associate Professor of Bioethics and Philosophy at the University of Wisconsin–Madison.\nMy teaching and research explore ethical and other philosophical dimensions of public policy, especially climate policy and health policy.\nMy book The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics is forthcoming in Oxford University Press’s PPE Book Series."
   }
 ]
