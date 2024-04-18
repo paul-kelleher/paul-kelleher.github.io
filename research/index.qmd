@@ -42,7 +42,7 @@ Richard W. Miller (Cornell University) died as he was completing his final book.
 
 (All solo-authored, except for items with bolded name)
 
--   "Temporal Discounting and Climate Change," in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming). [Link to preprint.](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/965a24c66b0c6d51adf7975d521f10147a9fa37c/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf)
+-   "Temporal Discounting and Climate Change," in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming). [Link to preprint.](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/965a24c66b0c6d51adf7975d521f10147a9fa37c/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf?raw=true)
 
 -   Gernot Wagner, David Anthoff, Maureen Cropper, Simon Dietz, Kenneth T. Gillingham, Ben Groom, **J. Paul Kelleher**, Frances C. Moore, and James H. Stock, "Eight priorities for calculating the social cost of carbon". *Nature* 590 (Feb. 25, 2021): 548-550. [Link to published pdf.](https://media.nature.com/original/magazine-assets/d41586-021-00441-0/d41586-021-00441-0.pdf)
 
