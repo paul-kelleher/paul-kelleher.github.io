@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - url: https://www.paulkelleher.net/cv
         text: CV
       - url: https://www.paulkelleher.net/research
