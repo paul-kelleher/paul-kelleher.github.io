@@ -18,7 +18,7 @@ Editor. Richard W. Miller, *The Ethics of Social Democracy: Justice Meets Capita
 
 **Articles, Chapters, and Entries**(All solo-authored, except for items with bolded name)
 
--   \"Temporal Discounting and Climate Change,\" in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming).
+-   [\"Temporal Discounting and Climate Change,\"](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/965a24c66b0c6d51adf7975d521f10147a9fa37c/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf) in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming).
 
 -   Gernot Wagner, David Anthoff, Maureen Cropper, Simon Dietz, Kenneth T. Gillingham, Ben Groom, **J. Paul Kelleher**, Frances C. Moore, and James H. Stock, \"Eight priorities for calculating the social cost of carbon\". *Nature* 590 (Feb. 25, 2021): 548-550.
 
