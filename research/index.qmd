@@ -24,13 +24,29 @@ Climate change economists have called it "the most important number you've never
 :::
 :::
 
-## Edited volumes
+## Edited volume
 
 Editor. Richard W. Miller, *The Ethics of Social Democracy: Justice Meets Capitalism*. Oxford University Press, forthcoming.
 
-::: {.callout-note icon="false"}
+::: columns
+
+:::: {.column width=10%}
+
+::::
+
+:::: {.column width=80%}
+::: {.callout-note appearance="simple" icon="false"}
 Richard W. Miller died as he was completing his final book. Dick was my dissertation advisor, and I am working with his family and with OUP to prepare the manuscript for publication. I will also contribute an editor's introduction.
-:::
+::: 
+
+::::
+
+:::: {.column width=10%}
+
+::::
+
+::: 
+
 
 # **Articles, Chapters, and Entries**
 
