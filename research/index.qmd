@@ -14,50 +14,64 @@ title: Research
 
 Editor. Richard W. Miller, *The Ethics of Social Democracy: Justice Meets Capitalism*. Oxford University Press, forthcoming.
 
-# Articles
+# **Articles, Chapters, and Entries**
 
-**Articles, Chapters, and Entries**(All solo-authored, except for items with bolded name)
+(All solo-authored, except for items with bolded name)
 
--   [\"Temporal Discounting and Climate Change,\"](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/965a24c66b0c6d51adf7975d521f10147a9fa37c/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf) in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming).
+-   \"Temporal Discounting and Climate Change,\" in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming). [Link to preprint.](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/965a24c66b0c6d51adf7975d521f10147a9fa37c/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf)
 
--   Gernot Wagner, David Anthoff, Maureen Cropper, Simon Dietz, Kenneth T. Gillingham, Ben Groom, **J. Paul Kelleher**, Frances C. Moore, and James H. Stock, \"Eight priorities for calculating the social cost of carbon\". *Nature* 590 (Feb. 25, 2021): 548-550.
+-   Gernot Wagner, David Anthoff, Maureen Cropper, Simon Dietz, Kenneth T. Gillingham, Ben Groom, **J. Paul Kelleher**, Frances C. Moore, and James H. Stock, \"Eight priorities for calculating the social cost of carbon\". *Nature* 590 (Feb. 25, 2021): 548-550. [Link to published pdf.](https://media.nature.com/original/magazine-assets/d41586-021-00441-0/d41586-021-00441-0.pdf)
 
--   \"Reflections on the 2018 Nobel Memorial Prize Awarded to William Nordhaus,\" *Erasmus Journal for Philosophy and Economics* 12(1) (2019): 93-107.
+-   \"Reflections on the 2018 Nobel Memorial Prize Awarded to William Nordhaus,\" *Erasmus Journal for Philosophy and Economics* 12(1) (2019): 93-107. [Link to open access version.](https://www.ejpe.org/journal/article/view/415)
 
--   \"The Social Cost of Carbon from Theory to Trump,\" in Ravi Kanbur and Henry Shue (eds.) *Climate Justice: Integrating Economics and Philosophy* (Oxford University Press, 2019).
+-   \"The Social Cost of Carbon from Theory to Trump,\" in Ravi Kanbur and Henry Shue (eds.) *Climate Justice: Integrating Economics and Philosophy* (Oxford University Press, 2019). [Link to preprint.](https://philarchive.org/go.pl?id=KELTSC-45&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELTSC-45.pdf)
 
--   **J. Paul Kelleher** and Gernot Wagner, \"Ramsey Discounting Calls for Subtracting Climate Damages from Economic Growth Rates\". *Applied Economics Letters* 26(1) (2019).
+-   **J. Paul Kelleher** and Gernot Wagner, \"Ramsey Discounting Calls for Subtracting Climate Damages from Economic Growth Rates\". *Applied Economics Letters* 26(1) (2019). [Link to preprint.](https://gwagner.com/wp-content/uploads/Kelleher-Wagner-Ramsey-discounting-climate-damages-180209.pdf)
 
--   **J. Paul Kelleher** and Gernot Wagner, \"Prescriptivism, Risk Aversion, And Intertemporal Substitution In Climate Economics\". *Annals of Economics and Statistics* 132 (December 2018).
+-   **J. Paul Kelleher** and Gernot Wagner, \"Prescriptivism, Risk Aversion, And Intertemporal Substitution In Climate Economics\". *Annals of Economics and Statistics* 132 (December 2018). [Link to published pdf.](https://gwagner.com/wp-content/uploads/Kelleher-Wagner-AES-2018-Prescriptivism.pdf)
 
--   \"Descriptive versus Prescriptive Discounting in Climate Change Policy Analysis.\" *Georgetown Journal of Law & Public Policy* 15(2017): 957-977.
+-   \"Descriptive versus Prescriptive Discounting in Climate Change Policy Analysis.\" *Georgetown Journal of Law & Public Policy* 15(2017): 957-977. [Link to published pdf.](https://philpapers.org/go.pl?id=JPADVP&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FJPADVP.pdf)
 
--   \"Pure Time Preference in Intertemporal Welfare Economics,\" *Economics & Philosophy* 33 (2017): 441--473.
+-   \"Pure Time Preference in Intertemporal Welfare Economics,\" *Economics & Philosophy* 33 (2017): 441--473. [Link to preprint.](https://philpapers.org/go.pl?id=KELPTP&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELPTP.pdf) [Link to published pdf.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C3E61DFFFD3AF260871AC02E9CBDB0D7/S0266267117000074a.pdf/div-class-title-pure-time-preference-in-intertemporal-welfare-economics-div.pdf?casa_token=dKkJg66meC0AAAAA:2Cr61TSyUdpZSzXPAGZvi1Zhu4cINElPxhCnQjtD9EFhCkcQVwGL5gZfSLgV4sWxQqx1f1EA)
 
 -   \"Climate Change Ethics,\" in Jonathan A. Patz and Barry S. Levy(eds.) *Climate Change and Public Health* (Oxford University Press, 2016).
 
--   \"Is There A Sacrifice-Free Solution to Climate Change?\" *Ethics, Policy & Environment* 18(1) (2015): 68-78.
+-   \"Is There A Sacrifice-Free Solution to Climate Change?\" *Ethics, Policy & Environment* 18(1) (2015): 68-78. [Link to preprint.](https://philpapers.org/go.pl?id=KELITA-3&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELITA-3.pdf)
 
--   \"Health Inequalities and Relational Egalitarianism,\" in Rebecca Walker, Mara Buchbinder, and Michele Rivkin-Fish (eds.) *Understanding Health Inequalities and Justice: Bridging Perspectives for New Conversations* (University of North Carolina Press, 2015).
+-   \"Health Inequalities and Relational Egalitarianism,\" in Rebecca Walker, Mara Buchbinder, and Michele Rivkin-Fish (eds.) *Understanding Health Inequalities and Justice: Bridging Perspectives for New Conversations* (University of North Carolina Press, 2015). [Link to preprint.](https://philpapers.org/archive/kelqia.pdf)
 
--   \"Evaluating Health Inequalities: Residual Worries,\" *American Journal of Bioethics* 15(3) (2015): 50-51.
+-   \"Evaluating Health Inequalities: Residual Worries,\" *American Journal of Bioethics* 15(3) (2015): 50-51. [Link to preprint.](https://philarchive.org/archive/KELEHI)
 
--   \"Capabilities versus Resources\" *Journal of Moral Philosophy* 12 (2015): 151-171.
+-   \"Capabilities versus Resources\" *Journal of Moral Philosophy* 12 (2015): 151-171. [Link to published pdf.](https://philpapers.org/archive/KELCVR)
 
--   \"Efficiency and Equity in Health: Philosophical Considerations,\" entry for Anthony Culyer, ed., *Encyclopedia of Health Economics Vol. 1* (San Diego: Elsevier, 2014): 259-266.  
+-   \"Efficiency and Equity in Health: Philosophical Considerations,\" entry for Anthony Culyer, ed., *Encyclopedia of Health Economics Vol. 1* (San Diego: Elsevier, 2014): 259-266. [Link to preprint.](https://philarchive.org/archive/KELEAE)
 
--   \"Relevance and Non-Consequentialist Aggregation,\" *Utilitas* 26(4) (2014): 385-408.
+-   \"Relevance and Non-Consequentialist Aggregation,\" *Utilitas* 26(4) (2014): 385-408. [Link to preprint.](https://philpapers.org/go.pl?id=KELRAN&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELRAN.pdf) [Link to published pdf.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0953820814000144?casa_token=LdUWdjP0-JcAAAAA:tSTuudpZCSYQIInl-mdO6HTV5JRpdXcS--U8uW9npqPskTg73SoHhvSNLsqO4ENe3FXyEVZ-)
 
--   \"Beneficence, Justice, and Health Care,\" *Kennedy Institute of Ethics Journal* 24(1) (2014): 27-49.
+-   \"Beneficence, Justice, and Health Care,\" *Kennedy Institute of Ethics Journal* 24(1) (2014): 27-49. [Link to preprint.](https://philpapers.org/go.pl?id=KELBJA&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELBJA.pdf) [Link to published version.](https://muse.jhu.edu/pub/1/article/541957/pdf?casa_token=j2f8M8BG86UAAAAA:bVS3d7fgNKDHILWLBJsRx1tjJ3VYxAmDaMtu7MDVvLVNKk15iQ23ecosS7mCMf9Ov8bqlLUd_g)
 
--   \"Public Health Paternalism and \'Expenditure Harm\',\" *Hastings Center Report* 44(4) (July -- August 2014): 4.
+-   \"Public Health Paternalism and \'Expenditure Harm\',\" *Hastings Center Report* 44(4) (July -- August 2014): 4. [Link to published pdf.](https://philarchive.org/archive/KELPHP)
 
--   Pilar N. Ossorio and **J. Paul Kelleher,** \"Why We Should Not Use the Affordable Care Act to Encourage Widespread Whole Genome Sequencing,\" *Journal of Health Politics, Policy, and Law* 39(1) (2014): 247-258.
+-   Pilar N. Ossorio and **J. Paul Kelleher,** \"Why We Should Not Use the Affordable Care Act to Encourage Widespread Whole Genome Sequencing,\" *Journal of Health Politics, Policy, and Law* 39(1) (2014): 247-258. [Link to published pdf.](https://read.dukeupress.edu/jhppl/article-pdf/39/1/247/434514/247.pdf?casa_token=Kv_2MbTeBFEAAAAA:8dlEvm4NnNp6pcrd51i2DI4zsGICCUgE0KYt_UfeMAFIxp1qqVjAsKYkCCgXErlNc9q2m5c)
 
--   \"Prevention, Rescue, and Tiny Risks,\" *Public Health Ethics* 6(3) (2013): 252-261.
+-   \"Prevention, Rescue, and Tiny Risks,\" *Public Health Ethics* 6(3) (2013): 252-261. [Link to preprint.](https://philpapers.org/archive/KELPRA.pdf)
 
--   \"Real and Alleged Problems for Daniels\'s Account of Health Justice\" *Journal of Medicine & Philosophy* 38(4)(2013): 388-399.
+-   \"Real and Alleged Problems for Daniels\'s Account of Health Justice\" *Journal of Medicine & Philosophy* 38(4)(2013): 388-399. [Link to preprint.](https://philpapers.org/go.pl?id=KELRAA-2&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELRAA-2.pdf)
 
 -   \"Energy Policy and the Social Discount Rate,\" *Ethics, Policy & Environment* 15(1) (2012): 45-50.
 
--   \"Emergency Contraception and Conscientious Objection\" *Journal of Applied Philosophy* 27(3) (2010): 290-304.
+    ::: {.callout-note}
+    The analysis in this piece is superseded by that given in "Temporal Discounting and Climate Change" (listed above) and, most fully, in my book *The Social Cost of Carbon*.
+    :::
+
+-   \"Emergency Contraception and Conscientious Objection\" *Journal of Applied Philosophy* 27(3) (2010): 290-304. [Link to preprint.](https://philpapers.org/go.pl?id=KELECA&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELECA.pdf) [Link to published pdf.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-5930.2010.00488.x?casa_token=N3wUeToWNCQAAAAA:cD31OnePNeNEiIkY5kUfNiKm-mD_Gf8J4xCG3lwHfe6VGBsnZzfgdl8y4jKufF4Vgq2dq7y-UCr-5bs)
+
+## Scholarly Reviews
+
+-   \[Review of:\] Eric A. Posner & David Weisbach, *Climate Change Justice* (Princeton University Press, 2015, paperback edition), *Œconomia* 6(2) (2016). [Link to open access review.](https://journals.openedition.org/oeconomia/2311)
+
+-   \[Review of:\] Henry Shue, *Climate Justice* (Oxford University Press, 2014), *Ethics, Policy & Environment* 19(1) (2016): 111-114.
+
+-   \[Review of:\] Dominic Wilkinson, *Death or Disability?: The \'Carmentis Machine\' and Decision-Making for Critically Ill Children* (Oxford: Oxford University Press, 2013), *Mind* 123 (2014): 974-980. [Link to preprint.](https://philpapers.org/go.pl?id=KELROQ-2&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELROQ-2.pdf)
+
+-   \[Review of:\] Halley S. Faust and Paul T. Menzel (eds.), *Prevention vs. Treatment: What\'s the Right Balance?* (Oxford University Press, 2012), *Notre Dame Philosophical Reviews* (March 2012). [Link to preprint.](https://philpapers.org/go.pl?id=KELROQ&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FKELROQ.pdf) [Link to published version.](https://ndpr.nd.edu/reviews/prevention-vs-treatment-what-s-the-right-balance/)
