@@ -1,4 +1,17 @@
-![](PK_monarch.png){ width=41% } 
+---
+format:
+  html:
+    grid:
+      margin-width: 450px
+      body-width: 500px
+      sidebar-width: 150px
+---
+
+::: column-margin
+![](PK_monarch.png)
+:::
+\
+\
 
 I am an Associate Professor of Bioethics and Philosophy at the University of Wisconsin--Madison.
 
