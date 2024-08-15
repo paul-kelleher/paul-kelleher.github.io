@@ -11,6 +11,8 @@ website:
         text: CV
       - url: https://www.paulkelleher.net/research
         text: Research
+      - url: https://www.paulkelleher.net/sccbook
+        text: Book
       - url: https://www.paulkelleher.net/blog
         text: Blog
 
