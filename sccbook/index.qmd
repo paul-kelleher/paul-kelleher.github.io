@@ -1,4 +1,4 @@
-My book *The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics* will be published by Oxford University Press in early 2025. It will be the third book in OUP's [Philosophy, Politics, and Economics book series](https://ppebookseries.org/).
+My book ***The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics*** will be published by Oxford University Press in early 2025. It will be the third book in OUP's [Philosophy, Politics, and Economics book series](https://ppebookseries.org/).
 
 ::: columns
 ::: {.column width="10%"}
@@ -15,5 +15,6 @@ Climate change economists have called it "the most important number you've never
 ::: {.column width="10%"}
 :::
 :::
+\
 
 [Click here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/Book%20overview.pdf?raw=true) to download a document providing book and chapter abstracts.
