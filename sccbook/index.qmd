@@ -16,4 +16,4 @@ Climate change economists have called it "the most important number you've never
 :::
 :::
 
-Click here to download a document providing book and chapter abstracts.
+[Click here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/Book%20overview.pdf?raw=true) to download a document providing book and chapter abstracts.
