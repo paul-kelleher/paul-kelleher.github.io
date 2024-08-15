@@ -9,6 +9,8 @@ website:
         text: Home
       - url: https://www.paulkelleher.net/cv
         text: CV
+      - url: https://www.paulkelleher.net/sccbook
+        text: Book
       - url: https://www.paulkelleher.net/blog
         text: Blog
 
