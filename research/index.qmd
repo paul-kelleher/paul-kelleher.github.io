@@ -40,7 +40,7 @@ Richard W. Miller (Cornell University) died as he was completing his final book.
 
 # [Articles, Chapters, and Entries]{.underline}
 
-(All solo-authored, except for items with bolded name)
+(All single-authored, except for items with bolded name)
 
 -   "Temporal Discounting and Climate Change," in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming). [Link to preprint.](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf?raw=true){target="_blank"}
 
