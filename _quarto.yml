@@ -7,8 +7,6 @@ website:
     left:
       - href: index.qmd
         text: About
-      - url: https://www.paulkelleher.net/cv
-        text: CV
       - url: https://www.paulkelleher.net/research
         text: Research
       - url: https://www.paulkelleher.net/sccbook
