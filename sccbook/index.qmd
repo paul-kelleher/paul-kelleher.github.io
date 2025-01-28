@@ -3,6 +3,8 @@
 \
 
 My book ***The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics*** will be published by Oxford University Press in early 2025. It will be the fourth book in OUP's [Philosophy, Politics, and Economics book series](https://global.oup.com/academic/content/series/p/philosophy-politics-and-economics-ppes/?lang=en&cc=us).
+
+Here's a flyer with a promo code to get 30% off the book price from OUP [here](https://global.oup.com/academic/product/the-social-cost-of-carbon-9780197687796?cc=us&lang=en&). Or you can order from Amazon [here](https://www.amazon.com/Social-Cost-Carbon-Economics-Philosophy/dp/0197687792). Click [here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/Book%20overview.pdf?raw=true) to download a document that contains abstracts of each chapter.
 :::
 
 ::: {.column width="10%"}
@@ -18,5 +20,3 @@ My book ***The Social Cost of Carbon: Ethics and the Limits of Climate Change Ec
 
 Climate change economists have called it "the most important number you've never heard of" and the "holy grail of climate economic analysis." It is the social cost of carbon (SCC), and its purpose is to reflect---in one dollar figure---the harm caused by emitting a single ton of carbon dioxide into the atmosphere. The SCC is an essential concept for environmental cost-benefit analysis, and for the idea of an "optimal tax" on carbon emissions. It is also the subject of fierce debate in the academic literature and in American politics. This book offers the most systematic analysis yet of the social cost of carbon, its theoretical basis, and its proper role in climate economics and climate policy design. It explains that the SCC is not one concept but four, each of which is addressed to a distinct task in climate economics. Moreover, these four concepts can be sorted into two families that correspond to the two main branches of welfare economics, social choice theory and general equilibrium theory. The book explains these radically different theoretical frameworks and how a mathematically identical pair of SCC concepts can emerge from each. It then argues that the analytical power of each SCC concept is limited by its inability to capture the full array of ethical considerations that bear on responsible climate policy. Despite these limitations, the book explains how at least some SCC concepts can and should be put to work in real-world climate change policy analysis.
 :::
-
-One can preorder the book from OUP [here](https://global.oup.com/academic/product/the-social-cost-of-carbon-9780197687796?cc=us&lang=en&), or from Amazon [here](https://www.amazon.com/Social-Cost-Carbon-Economics-Philosophy/dp/0197687792). Click [here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/Book%20overview.pdf?raw=true) to download a document that contains abstracts of each chapter.
