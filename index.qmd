@@ -16,6 +16,6 @@ format:
 
 I am an Associate Professor of Bioethics and Philosophy at the University of Wisconsin--Madison.
 
-My teaching and research explore ethical and other philosophical dimensions of public policy, especially climate policy and health policy.
+My research and teaching explore ethical and other philosophical dimensions of public policy, especially climate policy and health policy.
 
-My book *The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics* is forthcoming in Oxford University Press's PPE Book Series. [Click here](https://www.paulkelleher.net/sccbook/) for more details.
+My book *The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics* was recently published in Oxford University Press's PPE Book Series. [Click here](https://www.paulkelleher.net/sccbook/) for more details.
