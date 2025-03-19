@@ -4,7 +4,7 @@
 
 My book ***The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics*** will be published by Oxford University Press in early 2025. It will be the fourth book in OUP's [Philosophy, Politics, and Economics book series](https://global.oup.com/academic/content/series/p/philosophy-politics-and-economics-ppes/?lang=en&cc=us).
 
-[Click here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/SCC_discount_flyer.pdf?raw=true) to download a flyer containing a promo code to get 30% off the book price [from OUP](https://global.oup.com/academic/product/the-social-cost-of-carbon-9780197687796?cc=us&lang=en&) here. Click [here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/files/Kelleher_SCCbook_Preface_preprint.pdf?raw=true) to read the stage-setting Preface. Click [here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/Book%20overview.pdf?raw=true) to download a document that contains abstracts of each chapter.
+[Click here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/SCC_discount_flyer.pdf?raw=true) to download a flyer containing a promo code to get 30% off the book price [from OUP](https://global.oup.com/academic/product/the-social-cost-of-carbon-9780197687796?cc=us&lang=en&) here. Click [here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/files/Kelleher_SCCbook_Preface_preprint.pdf?raw=true) to download a preprint version of the stage-setting Preface. Click [here](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/sccbook/Book%20overview.pdf?raw=true) to download a document that contains abstracts of each chapter.
 :::
 
 ::: {.column width="10%"}
