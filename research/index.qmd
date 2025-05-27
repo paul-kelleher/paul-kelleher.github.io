@@ -4,45 +4,45 @@
 
 *The Social Cost of Carbon: Ethics and the Limits of Climate Change Economics*. Oxford University Press, [PPE Book Series](https://ppebookseries.org/){target="_blank"}, forthcoming.
 
-::: columns
+::::::: columns
 ::: {.column width="10%"}
 :::
 
-::: {.column width="80%"}
+:::: {.column width="80%"}
 ::: {.callout-note collapse="true" icon="false"}
 ## Click to expand book abstract
 
 Climate change economists have called it "the most important number you've never heard of" and the "holy grail of climate economic analysis." It is the social cost of carbon (SCC), and its purpose is to reflect---in one dollar figure---the harm caused by emitting a single ton of carbon dioxide into the atmosphere. The SCC is an essential concept for environmental cost-benefit analysis, and for the idea of an "optimal tax" on carbon emissions. It is also the subject of fierce debate in the academic literature and in American politics. This book offers the most systematic analysis yet of the social cost of carbon, its theoretical basis, and its proper role in climate economics and climate policy design. It explains that the SCC is not one concept but four, each of which is addressed to a distinct task in climate economics. Moreover, these four concepts can be sorted into two families that correspond to the two main branches of welfare economics, social choice theory and general equilibrium theory. The book explains these radically different theoretical frameworks and how a mathematically identical pair of SCC concepts can emerge from each. It then argues that the analytical power of each SCC concept is limited by its inability to capture the full array of ethical considerations that bear on responsible climate policy. Despite these limitations, the book explains how at least some SCC concepts can and should be put to work in real-world climate change policy analysis.
 :::
-:::
+::::
 
 ::: {.column width="10%"}
 :::
-:::
+:::::::
 
 ## *Edited volume*
 
 Editor. Richard W. Miller, *The Ethics of Social Democracy: Justice Meets Capitalism*. Oxford University Press, forthcoming.
 
-::: columns
+::::::: columns
 ::: {.column width="10%"}
 :::
 
-::: {.column width="80%"}
+:::: {.column width="80%"}
 ::: {.callout-note appearance="simple" icon="false"}
 Richard W. Miller (Cornell University) died as he was completing his final book. Dick was my dissertation supervisor, and I am working with OUP to prepare his manuscript for publication. I will also contribute an editor's introduction.
 :::
-:::
+::::
 
 ::: {.column width="10%"}
 :::
-:::
+:::::::
 
 # [Articles, Chapters, and Entries]{.underline}
 
 (All single-authored, except for items with bolded name)
 
--   "Temporal Discounting and Climate Change," in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming). [Link to preprint.](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf?raw=true){target="_blank"}
+-   "Temporal Discounting and Climate Change," in Nina Emery (ed.), *Routledge Companion to Philosophy of Time* (Routledge, forthcoming). [Link to ](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf?raw=true){target="_blank"}[preprint](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/research/Kelleher_Temporal%20Discounting%20and%20Climate%20Change_8.2.24.pdf?raw=true){target="_blank"}[.](https://github.com/paul-kelleher/paul-kelleher.github.io/blob/main/research/Kelleher--Temporal%20Discounting%20and%20Climate%20Change_4.18.24.pdf?raw=true){target="_blank"}
 
 -   Gernot Wagner, David Anthoff, Maureen Cropper, Simon Dietz, Kenneth T. Gillingham, Ben Groom, **J. Paul Kelleher**, Frances C. Moore, and James H. Stock, "Eight priorities for calculating the social cost of carbon". *Nature* 590 (Feb. 25, 2021): 548-550. [Link to published pdf.](https://media.nature.com/original/magazine-assets/d41586-021-00441-0/d41586-021-00441-0.pdf){target="_blank"}
 
