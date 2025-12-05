@@ -20,6 +20,10 @@ format:
     css: styles.css
     toc: true
     fontsize: 1.125em
+    linestretch: 1.6
+    mainfont: "Source Sans Pro, sans-serif"
+    monofont: "Source Code Pro, monospace"
+
 
 editor: visual
 
