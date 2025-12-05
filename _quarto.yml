@@ -7,11 +7,11 @@ website:
     left:
       - href: index.qmd
         text: About
-      - url: https://www.paulkelleher.net/research
+      - url: https://paul-kelleher.github.io/research
         text: Research
-      - url: https://www.paulkelleher.net/sccbook
+      - url: https://paul-kelleher.github.io/sccbook
         text: Book
-      - url: https://www.paulkelleher.net/blog
+      - url: https://paul-kelleher.github.io/blog
         text: Blog
 
 format:
