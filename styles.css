@@ -1,11 +1,10 @@
 /* css styles */
-
 .callout {
   padding: 1.5em;
   line-height: 1.7;
 }
 
 .callout-body {
-  font-size: 1em;
+  font-size: 1.15em;     /* Increase from 1em to 1.1em or 1.15em */
   line-height: 1.7;
 }
