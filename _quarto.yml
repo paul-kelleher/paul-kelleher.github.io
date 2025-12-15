@@ -5,13 +5,13 @@ website:
   title: "J. Paul Kelleher"
   navbar:
     left:
-      - href: https://paul-kelleher.github.io/
+      - href: index.qmd
         text: About
-      - href: https://paul-kelleher.github.io/cv
+      - href: cv/index.qmd
         text: CV
-      - href: https://paul-kelleher.github.io/research
+      - href: research/index.qmd
         text: Research
-      - href: https://paul-kelleher.github.io/sccbook
+      - href: sccbook/index.qmd
         text: Book
       - href: https://paul-kelleher.github.io/blog
         text: Blog
