@@ -7,6 +7,8 @@ website:
     left:
       - href: https://paul-kelleher.github.io/
         text: About
+      - href: https://paul-kelleher.github.io/
+        text: CV
       - href: https://paul-kelleher.github.io/research
         text: Research
       - href: https://paul-kelleher.github.io/sccbook
