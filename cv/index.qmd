@@ -1,12 +1,13 @@
 ---
-title: CV
-date: 2024-04-16
-title-block-banner: false
+title: Curriculum vitae
+description: "Paul Kelleher's CV"
+date: 2025-12-15
+title-block-banner: true
 published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "Kelleher_CV_April 2024_v3.pdf"
+  pdf: "../files/Kelleher_CV_December_2025.pdf"
 ---
 
 ```{css, echo=FALSE}
@@ -23,7 +24,6 @@ cv:
     overflow: hidden;
     max-width: 100%;
 }
-
 .embed-container iframe,
 .embed-container object,
 .embed-container embed {
@@ -38,10 +38,9 @@ cv:
 ```{=html}
 <p class="text-center">
   <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download CV
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
   </a>
 </p>
-
 <div class="embed-container">
   <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
 </div>
