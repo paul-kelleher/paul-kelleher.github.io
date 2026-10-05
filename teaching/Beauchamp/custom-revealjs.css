@@ -1,0 +1,146 @@
+.reveal .slides section ul ul {
+  list-style: square !important;
+  margin-left: 1.2em;
+}
+
+.reveal .slides section .shaded-block,
+.reveal .slides section .columns .column .shaded-block {
+  background-color: #e8e8e8 !important;
+  padding: 0.6em 0.8em !important;
+  border-radius: 6px !important;
+  font-size: 0.85em;
+  line-height: 1.5;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.ignore {
+  display: none;
+}
+
+.premise {
+  padding-left: 3em;
+  text-indent: -3em;
+}
+
+.reveal .slides section .fake-h2 {
+  font-size: 64px;
+  font-weight: bold;
+  ...
+}
+
+/* Blue underline style — mirrors #blue-underline in Typst */
+.blue-underline {
+  color: #2166ac;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.spacious li {
+  margin-bottom: 0.8em !important;
+}
+
+.reveal .bot {
+  margin-top: 2em !important;
+  font-size: 0.6em;
+  color: gray;
+}
+
+.reveal .footnotes {
+  margin-top: 2em !important;
+  font-size: 0.6em;
+}
+
+.reveal .slides section {
+  padding-bottom: 1em;
+}
+
+/* Try these one at a time, or just add all — the most specific match wins */
+.reveal .subtitle { font-size: 1.5em; }
+.reveal p.subtitle { font-size: 1.5em; }
+.reveal .slides .subtitle { font-size: 1.5em; }
+
+
+.st {
+  background-color: #e8e8e8;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* More space between slide title and body */
+.reveal .slides section .slide-content,
+.reveal .slides section > *:not(h2):first-of-type {
+  margin-top: 0.6em;
+}
+
+.reveal .aside-footnotes,
+.reveal .aside-footnotes p,
+.reveal .aside-footnotes li {
+  font-size: 15px !important;
+}
+
+.reveal .slides section h2 {
+  margin-bottom: 0.6em;
+}
+
+/* Reduced slide titles: ## Long title {.smaller-title} or {.small-title}
+   Normal h2 is ~1.6em of body text.
+   .smaller-title = 1.4em (~88% of normal); .small-title = 1.2em (~75%). */
+.reveal .slides section h2.smaller-title,
+.reveal .slides section.smaller-title > h2 {
+  font-size: 1.4em !important;
+}
+
+.reveal .slides section h2.small-title,
+.reveal .slides section.small-title > h2 {
+  font-size: 1.2em !important;
+}
+
+/* Indent lists */
+.reveal .slides section ul,
+.reveal .slides section ol {
+  margin-left: 1.5em;
+}
+
+/* Sub-bullet arrows */
+.reveal .slides section ul ul {
+  list-style: none;
+  margin-left: 1.2em;
+}
+
+/* Tighten sub-bullet font size slightly */
+.reveal .slides section ul ul li {
+  font-size: 0.92em;
+}
+
+figure {
+  display: inline-block;
+}
+
+#refs {
+  overflow-y: auto;
+  max-height: 70vh;
+  font-size: 0.6em;
+}
+
+.spacer { margin-top: 1em; }
+.spacer-sm { margin-top: 0.5em; }
+.spacer-lg { margin-top: 2em; }
+/* Fragment that stays visible but turns bold + underlined on advance:
+   [phrase]{.fragment .bold-underline} */
+.reveal .slides section .fragment.bold-underline {
+  opacity: 1 !important;
+  visibility: inherit !important;
+}
+.reveal .slides section .fragment.bold-underline.visible {
+  font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Static bold + underline (no fragment): [phrase]{.bold-underline} */
+.reveal .slides section .bold-underline:not(.fragment) {
+  font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
